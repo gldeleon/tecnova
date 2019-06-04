@@ -8,7 +8,7 @@
         <meta name="description" content="">
         <meta name="author" content="">
 
-        <title>Tecnova - Una empresa de clase mundial</title>
+        <title>ITL - Servicios Integrales</title>
 
         <!-- Bootstrap core CSS -->
         <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -30,7 +30,7 @@
         <!-- Navigation -->
         <nav class="navbar navbar-expand-lg navbar-dark fixed-top" id="mainNav">
             <div class="container">
-                <a class="navbar-brand js-scroll-trigger" href="#page-top">TECNOVA</a>
+                <a class="navbar-brand js-scroll-trigger" href="#page-top">ITL</a>
                 <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
                     Menu
                     <i class="fas fa-bars"></i>
@@ -47,7 +47,7 @@
                             <a class="nav-link js-scroll-trigger" href="#about">Acerca de Nosotros</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link js-scroll-trigger" href="#team">Nuestro Equipo</a>
+                            <a class="nav-link js-scroll-trigger" href="#team">Casos de Éxito</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link js-scroll-trigger" href="#contact">Contacto</a>
@@ -61,8 +61,8 @@
         <header class="masthead">
             <div class="container">
                 <div class="intro-text">
-                    <div class="intro-lead-in">Bienvenidos a Tecnova!</div>
-                    <div class="intro-heading text-uppercase">Una empresa de clase mundial</div>
+                    <div class="intro-lead-in">Bienvenidos a ITL!</div>
+                    <div class="intro-heading text-uppercase">Servicios Integrales</div>
                     <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="#services">Mas...</a>
                 </div>
             </div>
@@ -74,34 +74,53 @@
                 <div class="row">
                     <div class="col-lg-12 text-center">
                         <h2 class="section-heading text-uppercase">Servicios</h2>
-                        <h3 class="section-subheading text-muted">Te presentamos nuestros servicios.</h3>
+                        <h3 class="section-subheading text-muted">Desarrollamos tecnología hecha a la medida, software especializado que genera valor en cada proyecto. Aseguramos la calidad y cumplimiento en cada servicio.</h3>
+
                     </div>
                 </div>
                 <div class="row text-center">
-                    <div class="col-md-4">
+                    <div class="col-md-3">
                         <span class="fa-stack fa-4x">
                             <i class="fas fa-circle fa-stack-2x text-primary"></i>
-                            <i class="fas fa-shopping-cart fa-stack-1x fa-inverse"></i>
+                            <i class="fas fa-user fa-stack-1x fa-inverse"></i>
                         </span>
-                        <h4 class="service-heading">E-Commerce</h4>
-                        <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p>
+                        <h4 class="service-heading">Mesa de ayuda TI</h4>
+                        <p class="text-muted">Contamos con una mesa de servicio 7x24 para la atención de todos los tickets de acuerdo a la prioridad de atención, nuestros recursos están altamente capacitados en la solución a issues de 1er, 2º y 3er grado.</p>
                     </div>
-                    <div class="col-md-4">
+                    <div class="col-md-3">
+                        <span class="fa-stack fa-4x">
+                            <i class="fas fa-circle fa-stack-2x text-primary"></i>
+                            <i class="fas fa-check fa-stack-1x fa-inverse"></i>
+                        </span>
+                        <h4 class="service-heading">Certificaciones</h4>
+                        <p class="text-muted">Contamos con certificaciones en diferentes plataformas y productos para brindar la atención y el servicio de excelencia que requieren los clientes.</p>
+                    </div>
+                    <div class="col-md-3">
                         <span class="fa-stack fa-4x">
                             <i class="fas fa-circle fa-stack-2x text-primary"></i>
                             <i class="fas fa-laptop fa-stack-1x fa-inverse"></i>
                         </span>
-                        <h4 class="service-heading">Responsive Design</h4>
-                        <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p>
+                        <h4 class="service-heading">Centro de Monitoreo</h4>
+                        <p class="text-muted">Contamos con un software de seguimiento en tiempo real el cual nos mantiene alertas en cada desvió de rutas, alertas de parada de unidades, contingencias, comunicación directa con la PF, priorizando la protección de la carga.</p>
                     </div>
-                    <div class="col-md-4">
+                    <div class="col-md-3">
                         <span class="fa-stack fa-4x">
                             <i class="fas fa-circle fa-stack-2x text-primary"></i>
                             <i class="fas fa-lock fa-stack-1x fa-inverse"></i>
                         </span>
-                        <h4 class="service-heading">Web Security</h4>
-                        <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p>
+                        <h4 class="service-heading">Bussines Analytics</h4>
+                        <p class="text-muted">Diseñamos servicios innovadores que se reflejan en auténticas ventajas competitivas para nuestros clientes, buscando siempre el mayor Retorno en sus Inversiones.</p>
                     </div>
+                    <!--                    <div>
+                                            <ul>
+                                                <li>Nuestros clientes pueden ver el status de su mercancía en tiempo real.</li>
+                                                <li>KPI Indicadores de Servicio.</li>
+                                                <li>Visualizar status de entregas.</li>
+                                                <li>Visualizar status de proyectos.</li>
+                                                <li>Consolidación de Información.</li>
+                                                <li> Recursos Confiables, certificación OPALO.</li>
+                                            </ul>
+                                        </div>-->
                 </div>
             </div>
         </section>
@@ -209,9 +228,29 @@
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12 text-center">
-                        <h2 class="section-heading text-uppercase">About</h2>
-                        <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
+                        <h2 class="section-heading text-uppercase">Acerca de Nosotros</h2>
+                        <h3 class="section-subheading text-muted"></h3>
+                        <p>ITL Servicios Integrales, somos una empresa con dos divisiones de negocio:</p>
+                        <p>Tecnologías de la Información. -  Dedicada a dar soluciones en diferentes productos y servicios como lo sin Consultoría, Venta de Licenciamiento, Renta de Hardware, Soporte Técnico, Mesa de Ayuda entre otras.</p>
+                        <p>Logística- Dedicados al almacenaje, logística, transportación, distribución y operación aduanera de diversos productos a nivel nacional. Contamos con 14 años de experiencia impulsando a nuestros clientes a la calidad y éxito en cada uno de sus proyectos.</p>
+                        <center><h4>Mision</h4></center>
+                        <p>Generar valor a nuestros clientes a través de soluciones integrales adaptadas a sus necesidades logrando el mayor retorno en sus inversiones.</p>
+                        <center><h4>Vision</h4></center>
+                        <p>Enfocamos nuestros esfuerzos para ser la compañía líder en ofrecer servicios integrales en TI y Logística a nivel nacional.</p>
+                        <center><h4>Valores</h4></center>
+                        <p>Innovación. - Creamos continuamente mejores formas de agregar valor.</p>
+                        <span>Iniciativa - Juicio - Curiosidad</span>
+                        <p>Pasión: Trabajamos en conjunto para crear una sinergia capaz de transmitir el resultado.</p>
+                        <span>Coraje - Urgencia - Diversión</span>
+                        <p>Excelencia: Nuestras acciones trascienden hacia el éxito de nuestros clientes.</p>
+                        <p>Compromiso- Calidad - Actitud</p>
+                        <p>Integridad: Construimos relaciones con base en la honestidad y el respeto.</p>
+                        <p>Equidad - Ética</p>
+                        <p>Colaboración: Potenciamos el talento de nuestro equipo para generar resultados extraordinarios.</p>
+                        <p>Entendimiento - Sinergia.</p>
+                        <h2>Cronograma</h2>
                     </div>
+                    <br />
                 </div>
                 <div class="row">
                     <div class="col-lg-12">
@@ -222,11 +261,12 @@
                                 </div>
                                 <div class="timeline-panel">
                                     <div class="timeline-heading">
-                                        <h4>2009-2011</h4>
-                                        <h4 class="subheading">Our Humble Beginnings</h4>
+                                        <h4>2005</h4>
+                                        <h4 class="subheading">NACE</h4>
                                     </div>
                                     <div class="timeline-body">
-                                        <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!</p>
+                                        <p class="text-muted">TDM Logística, empresa 100% mexicana, nace para ofrecer soluciones logísticas de distribución local en CDMX y Área Metropolitana en unidades de 1.5 tons. y motocicletas.</p>
+                                        <p class="text-muted">Entra al mercado logístico como socio de negocio siendo el proveedor de entrega de la “última milla” para una de las compañías de mensajería y supply chain mas grandes internacionalmente. </p>
                                     </div>
                                 </div>
                             </li>
@@ -236,11 +276,12 @@
                                 </div>
                                 <div class="timeline-panel">
                                     <div class="timeline-heading">
-                                        <h4>March 2011</h4>
-                                        <h4 class="subheading">An Agency is Born</h4>
+                                        <h4>2008</h4>
+                                        <h4 class="subheading">CRECIMIENTO</h4>
                                     </div>
                                     <div class="timeline-body">
-                                        <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!</p>
+                                        <p class="text-muted">Se incorporan a la flotilla unidades de 3.5 tons, Torton y Trailers, realizando servicios dedicados a nivel nacional.</p>
+                                        <p class="text-muted">Crece la operación colaborando con grandes Operadores Logísticos, se suman a la oferta, servicios de mensajería, transportación y Distribución.</p>
                                     </div>
                                 </div>
                             </li>
@@ -250,11 +291,11 @@
                                 </div>
                                 <div class="timeline-panel">
                                     <div class="timeline-heading">
-                                        <h4>December 2012</h4>
-                                        <h4 class="subheading">Transition to Full Service</h4>
+                                        <h4>2010</h4>
+                                        <h4 class="subheading">SE INCORPORA IT SOLUTIONS</h4>
                                     </div>
                                     <div class="timeline-body">
-                                        <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!</p>
+                                        <p class="text-muted">Tras las necesidades de diversos clientes, los cuales, buscaban un socio de negocio que les pudiera ofrecer un servicio integral en cuanto a distribución de hardware y reemplazo tecnológico a nivel nacional, se crea una nueva línea de negocio, “IT Solutions” enfocada a dar soluciones en las demandas de Tecnologías de la Información como mudanzas tecnológicas, instalación de HW y SW y Soporte Técnico.</p>
                                     </div>
                                 </div>
                             </li>
@@ -264,19 +305,50 @@
                                 </div>
                                 <div class="timeline-panel">
                                     <div class="timeline-heading">
-                                        <h4>July 2014</h4>
-                                        <h4 class="subheading">Phase Two Expansion</h4>
+                                        <h4>2013</h4>
+                                        <h4 class="subheading">NUEVAS SOLUCIONES EN LA DIVISION DE TI</h4>
                                     </div>
                                     <div class="timeline-body">
-                                        <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!</p>
+                                        <p class="text-muted">Se expanden los servicios de TI ofreciendo, venta de Licenciamiento Microsoft, servicios de Consultoría Office 365, Sharepoint, Server, SQL entre otros.</p>
+                                        <p class="text-muted">Estos servicios se implementan a nivel nacional pudiendo cubrir proyectos de alta demanda en tiempos reducidos.</p>
+                                        <p class="text-muted">Se realizar proyectos paras Iniciativa Privada y Gobierno a grandes volúmenes de usuarios, como lo son, migración de información, reemplazo tecnológico, clonación de imágenes, deployment de O365, entre otros.</p>
+                                    </div>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="timeline-image">
+                                    <img class="rounded-circle img-fluid" src="img/about/1.jpg" alt="">
+                                </div>
+                                <div class="timeline-panel">
+                                    <div class="timeline-heading">
+                                        <h4>2015</h4>
+                                        <h4 class="subheading">APERTURA DE CEDIS</h4>
+                                    </div>
+                                    <div class="timeline-body">
+                                        <p class="text-muted">Tras la demanda de administrar la operación de nuestros clientes, se apertura un CEDIS como Operador Logístico (3PL) ofreciendo servicios de Almacenaje, Picking, Packing, Cross Dock, Distribución.</p>
+                                        <p class="text-muted">Se suman a las soluciones logísticas gestión de despacho aduanero, ofreciendo servicios de trasmites aduaneros, maniobras, almacén fiscalizado, traslados, transportación marítima entre otros. </p>
                                     </div>
                                 </div>
                             </li>
                             <li class="timeline-inverted">
                                 <div class="timeline-image">
-                                    <h4>Be Part
-                                        <br>Of Our
-                                        <br>Story!</h4>
+                                    <img class="rounded-circle img-fluid" src="img/about/4.jpg" alt="">
+                                </div>
+                                <div class="timeline-panel">
+                                    <div class="timeline-heading">
+                                        <h4>2018</h4>
+                                        <h4 class="subheading">ITL SERVICIOS INTEGRALES</h4>
+                                    </div>
+                                    <div class="timeline-body">
+                                        <p class="text-muted">Con la finalidad de llegar a mas socios de negocio se crea el nombre comercial de ITL Servicios Integrales, fusionando las dos divisiones de negocio IT y Logística.</p>
+                                    </div>
+                                </div>
+                            </li>
+                            <li class="timeline-inverted">
+                                <div class="timeline-image">
+                                    <h4>Se parte
+                                        <br>de nuestra
+                                        <br>Historia!</h4>
                                 </div>
                             </li>
                         </ul>
@@ -290,89 +362,89 @@
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12 text-center">
-                        <h2 class="section-heading text-uppercase">Our Amazing Team</h2>
-                        <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
+                        <h2 class="section-heading text-uppercase">Alianzas</h2>
+                        <!--<h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>-->
                     </div>
                 </div>
-                <div class="row">
-                    <div class="col-sm-4">
-                        <div class="team-member">
-                            <img class="mx-auto rounded-circle" src="img/team/1.jpg" alt="">
-                            <h4>Kay Garland</h4>
-                            <p class="text-muted">Lead Designer</p>
-                            <ul class="list-inline social-buttons">
-                                <li class="list-inline-item">
-                                    <a href="#">
-                                        <i class="fab fa-twitter"></i>
-                                    </a>
-                                </li>
-                                <li class="list-inline-item">
-                                    <a href="#">
-                                        <i class="fab fa-facebook-f"></i>
-                                    </a>
-                                </li>
-                                <li class="list-inline-item">
-                                    <a href="#">
-                                        <i class="fab fa-linkedin-in"></i>
-                                    </a>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="col-sm-4">
-                        <div class="team-member">
-                            <img class="mx-auto rounded-circle" src="img/team/2.jpg" alt="">
-                            <h4>Larry Parker</h4>
-                            <p class="text-muted">Lead Marketer</p>
-                            <ul class="list-inline social-buttons">
-                                <li class="list-inline-item">
-                                    <a href="#">
-                                        <i class="fab fa-twitter"></i>
-                                    </a>
-                                </li>
-                                <li class="list-inline-item">
-                                    <a href="#">
-                                        <i class="fab fa-facebook-f"></i>
-                                    </a>
-                                </li>
-                                <li class="list-inline-item">
-                                    <a href="#">
-                                        <i class="fab fa-linkedin-in"></i>
-                                    </a>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="col-sm-4">
-                        <div class="team-member">
-                            <img class="mx-auto rounded-circle" src="img/team/3.jpg" alt="">
-                            <h4>Diana Pertersen</h4>
-                            <p class="text-muted">Lead Developer</p>
-                            <ul class="list-inline social-buttons">
-                                <li class="list-inline-item">
-                                    <a href="#">
-                                        <i class="fab fa-twitter"></i>
-                                    </a>
-                                </li>
-                                <li class="list-inline-item">
-                                    <a href="#">
-                                        <i class="fab fa-facebook-f"></i>
-                                    </a>
-                                </li>
-                                <li class="list-inline-item">
-                                    <a href="#">
-                                        <i class="fab fa-linkedin-in"></i>
-                                    </a>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-lg-8 mx-auto text-center">
-                        <p class="large text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde.</p>
-                    </div>
-                </div>
+                <!--                <div class="row">
+                                    <div class="col-sm-4">
+                                        <div class="team-member">
+                                            <img class="mx-auto rounded-circle" src="img/team/1.jpg" alt="">
+                                            <h4>Kay Garland</h4>
+                                            <p class="text-muted">Lead Designer</p>
+                                            <ul class="list-inline social-buttons">
+                                                <li class="list-inline-item">
+                                                    <a href="#">
+                                                        <i class="fab fa-twitter"></i>
+                                                    </a>
+                                                </li>
+                                                <li class="list-inline-item">
+                                                    <a href="#">
+                                                        <i class="fab fa-facebook-f"></i>
+                                                    </a>
+                                                </li>
+                                                <li class="list-inline-item">
+                                                    <a href="#">
+                                                        <i class="fab fa-linkedin-in"></i>
+                                                    </a>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-4">
+                                        <div class="team-member">
+                                            <img class="mx-auto rounded-circle" src="img/team/2.jpg" alt="">
+                                            <h4>Larry Parker</h4>
+                                            <p class="text-muted">Lead Marketer</p>
+                                            <ul class="list-inline social-buttons">
+                                                <li class="list-inline-item">
+                                                    <a href="#">
+                                                        <i class="fab fa-twitter"></i>
+                                                    </a>
+                                                </li>
+                                                <li class="list-inline-item">
+                                                    <a href="#">
+                                                        <i class="fab fa-facebook-f"></i>
+                                                    </a>
+                                                </li>
+                                                <li class="list-inline-item">
+                                                    <a href="#">
+                                                        <i class="fab fa-linkedin-in"></i>
+                                                    </a>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-4">
+                                        <div class="team-member">
+                                            <img class="mx-auto rounded-circle" src="img/team/3.jpg" alt="">
+                                            <h4>Diana Pertersen</h4>
+                                            <p class="text-muted">Lead Developer</p>
+                                            <ul class="list-inline social-buttons">
+                                                <li class="list-inline-item">
+                                                    <a href="#">
+                                                        <i class="fab fa-twitter"></i>
+                                                    </a>
+                                                </li>
+                                                <li class="list-inline-item">
+                                                    <a href="#">
+                                                        <i class="fab fa-facebook-f"></i>
+                                                    </a>
+                                                </li>
+                                                <li class="list-inline-item">
+                                                    <a href="#">
+                                                        <i class="fab fa-linkedin-in"></i>
+                                                    </a>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>-->
+                <!--                <div class="row">
+                                    <div class="col-lg-8 mx-auto text-center">
+                                        <p class="large text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde.</p>
+                                    </div>
+                                </div>-->
             </div>
         </section>
 
@@ -382,22 +454,22 @@
                 <div class="row">
                     <div class="col-md-3 col-sm-6">
                         <a href="#">
-                            <img class="img-fluid d-block mx-auto" src="img/logos/envato.jpg" alt="">
+                            <img class="img-fluid d-block mx-auto" height="45px" src="https://www8.hp.com/mx/es/images/i/hpi/header-footer/caas-hf-v3.2/hpi-hp-logo-pr.gif" alt="">
                         </a>
                     </div>
                     <div class="col-md-3 col-sm-6">
                         <a href="#">
-                            <img class="img-fluid d-block mx-auto" src="img/logos/designmodo.jpg" alt="">
+                            <img class="img-fluid d-block mx-auto" height="45px"  src="https://static.lenovo.com/fea/images/lenovo-logo-red.png" alt="">
                         </a>
                     </div>
                     <div class="col-md-3 col-sm-6">
                         <a href="#">
-                            <img class="img-fluid d-block mx-auto" src="img/logos/themeforest.jpg" alt="">
+                            <img class="img-fluid d-block mx-auto" height="45px" src="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE1Mu3b?ver=5c31" alt="">
                         </a>
                     </div>
                     <div class="col-md-3 col-sm-6">
                         <a href="#">
-                            <img class="img-fluid d-block mx-auto" src="img/logos/creative-market.jpg" alt="">
+                            <img class="img-fluid d-block mx-auto" height="45px" src="http://itkey.com/img/logo.png" alt="">
                         </a>
                     </div>
                 </div>
@@ -409,8 +481,9 @@
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12 text-center">
-                        <h2 class="section-heading text-uppercase">Contact Us</h2>
-                        <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
+                        <h2 class="section-heading text-uppercase">Contacto</h2>
+                        <h3 class="section-subheading text-muted">"DISEÑAMOS SOLUCIONES INTEGRALES A LA MEDIDA DE TUS NECESIDADES"</h3>
+                        <p>Contamos con la experiencia, recursos, "know how" para lograr los objetivos y el éxito de nuestros clientes. Deja en nuestras manos tu operación o parte de tu proyecto, confiamos en que serán llevados a su destino en tiempo y forma</p>
                     </div>
                 </div>
                 <div class="row">
