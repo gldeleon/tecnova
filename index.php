@@ -7,22 +7,17 @@
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
         <meta name="description" content="">
         <meta name="author" content="">
-
         <title>ITL - Servicios Integrales</title>
-
         <!-- Bootstrap core CSS -->
         <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-
         <!-- Custom fonts for this template -->
         <link href="vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
         <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
         <link href='https://fonts.googleapis.com/css?family=Kaushan+Script' rel='stylesheet' type='text/css'>
         <link href='https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
         <link href='https://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700' rel='stylesheet' type='text/css'>
-
         <!-- Custom styles for this template -->
-        <link href="css/agency.min.css" rel="stylesheet">
-
+        <link href="css/agency.css" rel="stylesheet">
     </head>
 
     <body id="page-top">
@@ -126,7 +121,7 @@
         </section>
 
         <!-- Portfolio Grid -->
-        <section class="bg-light page-section" id="portfolio">
+<!--        <section class="bg-light page-section" id="portfolio">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12 text-center">
@@ -221,36 +216,80 @@
                     </div>
                 </div>
             </div>
-        </section>
+        </section>-->
+        <!-- Portfolio Grid -->
+        <section class="bg-light page-section" id="portfolio">
+            <div class="container">
 
+                <!-- Featured Project Row -->
+                <div class="row align-items-center no-gutters mb-4 mb-lg-5">
+                    <div class="col-xl-8 col-lg-7">
+                        <img class="img-fluid mb-3 mb-lg-0" src="img/7679.jpg" alt="">
+                    </div>
+                    <div class="col-xl-4 col-lg-5">
+                        <div class="featured-text text-center text-lg-left">
+                            <h4>Mision</h4>
+                            <p class="text-50 mb-0">Generar valor a nuestros clientes a través de soluciones integrales adaptadas a sus necesidades logrando el mayor retorno en sus inversiones.</p>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Project One Row -->
+                <div class="row justify-content-center no-gutters mb-5 mb-lg-0">
+                    <div class="col-lg-6">
+                        <img class="img-fluid" src="img/89039.jpg" alt="">
+                    </div>
+                    <div class="col-lg-6">
+                        <div class="bg-black text-center h-100 project">
+                            <div class="d-flex h-100">
+                                <div class="project-text w-100 my-auto text-center text-lg-left">
+                                    <h4>Vision</h4>
+                                    <p class="mb-0 text-50">Enfocamos nuestros esfuerzos para ser la compañía líder en ofrecer servicios integrales en TI y Logística a nivel nacional.</p>
+                                    <hr class="d-none d-lg-block mb-0 ml-0">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Project Two Row -->
+                <div class="row justify-content-center no-gutters">
+                    <div class="col-lg-6">
+                        <img class="img-fluid" src="img/42291.jpg" alt="">
+                    </div>
+                    <div class="col-lg-6 order-lg-first">
+                        <div class="bg-black text-center h-100 project">
+                            <div class="d-flex h-100">
+                                <div class="project-text w-100 my-auto text-center text-lg-right">
+                                    <h4>Valores</h4>
+                                    <p class="mb-0 text-50">Innovación. - Creamos continuamente mejores formas de agregar valor, Iniciativa - Juicio - Curiosidad</p>
+                                    <p class="mb-0 text-50">Pasión: Trabajamos en conjunto para crear una sinergia capaz de transmitir el resultado, Coraje - Urgencia - Diversión</p>
+                                    <p class="mb-0 text-50">Excelencia: Nuestras acciones trascienden hacia el éxito de nuestros clientes, Compromiso- Calidad - Actitud</p>
+                                    <p class="mb-0 text-50">Integridad: Construimos relaciones con base en la honestidad y el respeto, Equidad - Ética</p>
+                                    <p class="mb-0 text-50">Colaboración: Potenciamos el talento de nuestro equipo para generar resultados extraordinarios, Entendimiento - Sinergia.</p>
+<!--                                    <p class="mb-0 text-white-50">Another example of a project with its respective description. These sections work well responsively as well, try this theme on a small screen!</p>-->
+                                    <hr class="d-none d-lg-block mb-0 mr-0">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </section>
         <!-- About -->
         <section class="page-section" id="about">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12 text-center">
                         <h2 class="section-heading text-uppercase">Acerca de Nosotros</h2>
+                        <p class="text-muted">ITL Servicios Integrales, somos una empresa con dos divisiones de negocio:</p>
+                        <p class="text-muted">Tecnologías de la Información. -  Dedicada a dar soluciones en diferentes productos y servicios como lo sin Consultoría, Venta de Licenciamiento, Renta de Hardware, Soporte Técnico, Mesa de Ayuda entre otras.</p>
+                        <p class="text-muted">Logística- Dedicados al almacenaje, logística, transportación, distribución y operación aduanera de diversos productos a nivel nacional. Contamos con 14 años de experiencia impulsando a nuestros clientes a la calidad y éxito en cada uno de sus proyectos.</p>
                         <h3 class="section-subheading text-muted"></h3>
-                        <p>ITL Servicios Integrales, somos una empresa con dos divisiones de negocio:</p>
-                        <p>Tecnologías de la Información. -  Dedicada a dar soluciones en diferentes productos y servicios como lo sin Consultoría, Venta de Licenciamiento, Renta de Hardware, Soporte Técnico, Mesa de Ayuda entre otras.</p>
-                        <p>Logística- Dedicados al almacenaje, logística, transportación, distribución y operación aduanera de diversos productos a nivel nacional. Contamos con 14 años de experiencia impulsando a nuestros clientes a la calidad y éxito en cada uno de sus proyectos.</p>
-                        <center><h4>Mision</h4></center>
-                        <p>Generar valor a nuestros clientes a través de soluciones integrales adaptadas a sus necesidades logrando el mayor retorno en sus inversiones.</p>
-                        <center><h4>Vision</h4></center>
-                        <p>Enfocamos nuestros esfuerzos para ser la compañía líder en ofrecer servicios integrales en TI y Logística a nivel nacional.</p>
-                        <center><h4>Valores</h4></center>
-                        <p>Innovación. - Creamos continuamente mejores formas de agregar valor.</p>
-                        <span>Iniciativa - Juicio - Curiosidad</span>
-                        <p>Pasión: Trabajamos en conjunto para crear una sinergia capaz de transmitir el resultado.</p>
-                        <span>Coraje - Urgencia - Diversión</span>
-                        <p>Excelencia: Nuestras acciones trascienden hacia el éxito de nuestros clientes.</p>
-                        <p>Compromiso- Calidad - Actitud</p>
-                        <p>Integridad: Construimos relaciones con base en la honestidad y el respeto.</p>
-                        <p>Equidad - Ética</p>
-                        <p>Colaboración: Potenciamos el talento de nuestro equipo para generar resultados extraordinarios.</p>
-                        <p>Entendimiento - Sinergia.</p>
                         <h2>Cronograma</h2>
                     </div>
-                    <br />
+                    <div class="col-lg-12 text-center"></div>
                 </div>
                 <div class="row">
                     <div class="col-lg-12">
@@ -366,6 +405,31 @@
                         <!--<h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>-->
                     </div>
                 </div>
+                <hr />
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-3 col-sm-6">
+                            <a href="#">
+                                <img class="img-fluid d-block mx-auto" height="45px" src="https://www8.hp.com/mx/es/images/i/hpi/header-footer/caas-hf-v3.2/hpi-hp-logo-pr.gif" alt="">
+                            </a>
+                        </div>
+                        <div class="col-md-3 col-sm-6">
+                            <a href="#">
+                                <img class="img-fluid d-block mx-auto" height="45px"  src="https://static.lenovo.com/fea/images/lenovo-logo-red.png" alt="">
+                            </a>
+                        </div>
+                        <div class="col-md-3 col-sm-6">
+                            <a href="#">
+                                <img class="img-fluid d-block mx-auto" height="45px" src="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE1Mu3b?ver=5c31" alt="">
+                            </a>
+                        </div>
+                        <div class="col-md-3 col-sm-6">
+                            <a href="#">
+                                <img class="img-fluid d-block mx-auto" height="45px" src="http://itkey.com/img/logo.png" alt="">
+                            </a>
+                        </div>
+                    </div>
+                </div>
                 <!--                <div class="row">
                                     <div class="col-sm-4">
                                         <div class="team-member">
@@ -449,32 +513,9 @@
         </section>
 
         <!-- Clients -->
-        <section class="py-5">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-3 col-sm-6">
-                        <a href="#">
-                            <img class="img-fluid d-block mx-auto" height="45px" src="https://www8.hp.com/mx/es/images/i/hpi/header-footer/caas-hf-v3.2/hpi-hp-logo-pr.gif" alt="">
-                        </a>
-                    </div>
-                    <div class="col-md-3 col-sm-6">
-                        <a href="#">
-                            <img class="img-fluid d-block mx-auto" height="45px"  src="https://static.lenovo.com/fea/images/lenovo-logo-red.png" alt="">
-                        </a>
-                    </div>
-                    <div class="col-md-3 col-sm-6">
-                        <a href="#">
-                            <img class="img-fluid d-block mx-auto" height="45px" src="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE1Mu3b?ver=5c31" alt="">
-                        </a>
-                    </div>
-                    <div class="col-md-3 col-sm-6">
-                        <a href="#">
-                            <img class="img-fluid d-block mx-auto" height="45px" src="http://itkey.com/img/logo.png" alt="">
-                        </a>
-                    </div>
-                </div>
-            </div>
-        </section>
+<!--        <section class="py-5">
+
+        </section>-->
 
         <!-- Contact -->
         <section class="page-section" id="contact">
@@ -492,28 +533,28 @@
                             <div class="row">
                                 <div class="col-md-6">
                                     <div class="form-group">
-                                        <input class="form-control" id="name" type="text" placeholder="Your Name *" required="required" data-validation-required-message="Please enter your name.">
+                                        <input class="form-control" id="name" type="text" placeholder="Nombre *" required="required" data-validation-required-message="Please enter your name.">
                                         <p class="help-block text-danger"></p>
                                     </div>
                                     <div class="form-group">
-                                        <input class="form-control" id="email" type="email" placeholder="Your Email *" required="required" data-validation-required-message="Please enter your email address.">
+                                        <input class="form-control" id="email" type="email" placeholder="Email *" required="required" data-validation-required-message="Please enter your email address.">
                                         <p class="help-block text-danger"></p>
                                     </div>
                                     <div class="form-group">
-                                        <input class="form-control" id="phone" type="tel" placeholder="Your Phone *" required="required" data-validation-required-message="Please enter your phone number.">
+                                        <input class="form-control" id="phone" type="tel" placeholder="Telefono *" required="required" data-validation-required-message="Please enter your phone number.">
                                         <p class="help-block text-danger"></p>
                                     </div>
                                 </div>
                                 <div class="col-md-6">
                                     <div class="form-group">
-                                        <textarea class="form-control" id="message" placeholder="Your Message *" required="required" data-validation-required-message="Please enter a message."></textarea>
+                                        <textarea class="form-control" id="message" placeholder="Mensaje *" required="required" data-validation-required-message="Please enter a message."></textarea>
                                         <p class="help-block text-danger"></p>
                                     </div>
                                 </div>
                                 <div class="clearfix"></div>
                                 <div class="col-lg-12 text-center">
                                     <div id="success"></div>
-                                    <button id="sendMessageButton" class="btn btn-primary btn-xl text-uppercase" type="submit">Send Message</button>
+                                    <button id="sendMessageButton" class="btn btn-primary btn-xl text-uppercase" type="submit">Enviar Mensaje</button>
                                 </div>
                             </div>
                         </form>
@@ -527,7 +568,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-4">
-                        <span class="copyright">Copyright &copy; Your Website 2019</span>
+                        <span class="copyright">Copyright &copy; ITL <?php echo date('Y'); ?></span>
                     </div>
                     <div class="col-md-4">
                         <ul class="list-inline social-buttons">
@@ -551,10 +592,10 @@
                     <div class="col-md-4">
                         <ul class="list-inline quicklinks">
                             <li class="list-inline-item">
-                                <a href="#">Privacy Policy</a>
+                                <a href="#">Politica de privacidad</a>
                             </li>
                             <li class="list-inline-item">
-                                <a href="#">Terms of Use</a>
+                                <a href="#">Terminos</a>
                             </li>
                         </ul>
                     </div>
@@ -589,7 +630,7 @@
                                     </ul>
                                     <button class="btn btn-primary" data-dismiss="modal" type="button">
                                         <i class="fas fa-times"></i>
-                                        Close Project</button>
+                                        Cerrar</button>
                                 </div>
                             </div>
                         </div>
@@ -623,7 +664,7 @@
                                     </ul>
                                     <button class="btn btn-primary" data-dismiss="modal" type="button">
                                         <i class="fas fa-times"></i>
-                                        Close Project</button>
+                                        Cerrar</button>
                                 </div>
                             </div>
                         </div>
@@ -657,7 +698,7 @@
                                     </ul>
                                     <button class="btn btn-primary" data-dismiss="modal" type="button">
                                         <i class="fas fa-times"></i>
-                                        Close Project</button>
+                                        Cerrar</button>
                                 </div>
                             </div>
                         </div>
@@ -691,7 +732,7 @@
                                     </ul>
                                     <button class="btn btn-primary" data-dismiss="modal" type="button">
                                         <i class="fas fa-times"></i>
-                                        Close Project</button>
+                                        Cerrar</button>
                                 </div>
                             </div>
                         </div>
@@ -725,7 +766,7 @@
                                     </ul>
                                     <button class="btn btn-primary" data-dismiss="modal" type="button">
                                         <i class="fas fa-times"></i>
-                                        Close Project</button>
+                                        Cerrar</button>
                                 </div>
                             </div>
                         </div>
@@ -759,7 +800,7 @@
                                     </ul>
                                     <button class="btn btn-primary" data-dismiss="modal" type="button">
                                         <i class="fas fa-times"></i>
-                                        Close Project</button>
+                                        Cerrar</button>
                                 </div>
                             </div>
                         </div>
