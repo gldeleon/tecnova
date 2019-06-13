@@ -111,6 +111,8 @@ img::-moz-selection {
 
 #mainNav {
     background-color: #073d60;
+    padding-bottom: 0rem;
+    padding-top: 0rem;
 }
 
 #mainNav .navbar-toggler {
@@ -153,7 +155,7 @@ img::-moz-selection {
         -webkit-transition: padding-top 0.3s, padding-bottom 0.3s;
         transition: padding-top 0.3s, padding-bottom 0.3s;
         border: none;
-        /*background-color: transparent;*/
+        background-color: transparent;
     }
     #mainNav .navbar-brand {
         font-size: 1.75em;
@@ -697,7 +699,7 @@ ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons l
 }
 
 .logo{
-    width: 100px;
+    width: 120px;
 }
 
 img {
@@ -725,15 +727,12 @@ img {
     color: #073d60 !important;
 }
 
-.navbar {
-    position: relative;
-    display: -ms-flexbox;
-    display: flex;
-    -ms-flex-wrap: wrap;
-    flex-wrap: wrap;
-    -ms-flex-align: center;
-    align-items: center;
-    -ms-flex-pack: justify;
-    justify-content: space-between;
-    padding: 0rem 1rem;
+.navbar-brand {
+    display: inline-block;
+    padding-top: 0rem;
+    padding-bottom: 0rem;
+    margin-right: 0rem;
+    font-size: 0rem;
+    line-height: inherit;
+    white-space: nowrap;
 }
