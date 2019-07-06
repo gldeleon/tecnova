@@ -16,6 +16,7 @@
         <link href='https://fonts.googleapis.com/css?family=Kaushan+Script' rel='stylesheet' type='text/css'>
         <link href='https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
         <link href='https://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700' rel='stylesheet' type='text/css'>
+        <link href="vendor/simple-line-icons/css/simple-line-icons.css" rel="stylesheet">
         <!-- Custom styles for this template -->
         <link href="css/agency.css" rel="stylesheet">
     </head>
@@ -24,7 +25,7 @@
         <!-- Navigation -->
         <nav class="navbar navbar-expand-lg navbar-dark fixed-top" id="mainNav">
             <div class="container">
-                <a class="navbar-brand js-scroll-trigger" href="#page-top"><img class="logo" src="img/logos/160x160.PNG" /></a>
+                <img src="img/logos/logo160x160.png" />
                 <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
                     Menu
                     <i class="fas fa-bars"></i>
@@ -60,7 +61,7 @@
             </div>
         </nav>
         <!-- Header -->
-        <br /><br /><br /><br /><br />
+        <br /><br />
         <header class="masthead bg-primary text-white text-center">
             <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
                 <ol class="carousel-indicators">
@@ -73,37 +74,37 @@
                 </ol>
                 <div class="carousel-inner">
                     <div class="carousel-item active">
-                        <img class="d-block w-100" width="1900px" height="900px" src="img/viajes.jpg" alt="First slide">
+                        <img class="d-block w-100" src="img/viajes.jpg" width="800px" height="600px" alt="First slide">
                         <div class="carousel-caption d-none d-md-block">
                             <h1>60,000 viajes anuales</h1>
                         </div>
                     </div>
                     <div class="carousel-item">
-                        <img class="d-block w-100" src="img/almacen.jpg" width="1900px" height="900px" alt="...">
+                        <img class="d-block w-100" src="img/almacen.jpg" width="800px" height="650px" alt="...">
                         <div class="carousel-caption d-none d-md-block">
                             <h1>25,000 m2 de almacén</h1>
                         </div>
                     </div>
                     <div class="carousel-item">
-                        <img class="d-block w-100" src="img/logisticos.jpg" width="1900px" height="900px" alt="...">
+                        <img class="d-block w-100" src="img/logisticos.jpg" width="800px" height="650px" alt="...">
                         <div class="carousel-caption d-none d-md-block">
                             <h1>1,300 Proyectos logísticos</h1>
                         </div>
                     </div>
                     <div class="carousel-item">
-                        <img class="d-block w-100" src="img/mesa.jpg" width="1900px" height="900px" alt="...">
+                        <img class="d-block w-100" src="img/mesa.jpg" width="800px" height="650px" alt="...">
                         <div class="carousel-caption d-none d-md-block">
                             <h1>1,200 usuarios en nuestra mesa de ayuda</h1>
                         </div>
                     </div>
                     <div class="carousel-item">
-                        <img class="d-block w-100" src="img/mesa.jpg" width="1900px" height="900px" alt="...">
+                        <img class="d-block w-100" src="img/mesa.jpg" width="800px" height="650px" alt="...">
                         <div class="carousel-caption d-none d-md-block">
                             <h1>80,000 equipos migrados y clonados</h1>
                         </div>
                     </div>
                     <div class="carousel-item">
-                        <img class="d-block w-100" src="img/mesa.jpg" width="1900px" height="900px" alt="...">
+                        <img class="d-block w-100" src="img/mesa.jpg" width="800px" height="650px" alt="...">
                         <div class="carousel-caption d-none d-md-block">
                             <h1>1,500 proyectos de Consultoría TI</h1>
                         </div>
@@ -159,7 +160,7 @@
                             <i class="fas fa-user fa-stack-1x fa-inverse"></i>
                         </span>
                         <h4 class="service-heading">Mesa de ayuda TI</h4>
-                        <p class="text-muted text-justify">Contamos con una mesa de servicio 7x24 para la atención de todos los tickets de acuerdo a la prioridad de atención, nuestros recursos están altamente capacitados en la solución a issues de 1er, 2º y 3er grado.</p>
+                        <p class="text-muted text-primary">Contamos con una mesa de servicio 7x24 para la atención de todos los tickets de acuerdo a la prioridad de atención, nuestros recursos están altamente capacitados en la solución a issues de 1er, 2º y 3er grado.</p>
                     </div>
                     <div class="col-md-3">
                         <span class="fa-stack fa-4x">
@@ -167,7 +168,7 @@
                             <i class="fas fa-check fa-stack-1x fa-inverse"></i>
                         </span>
                         <h4 class="service-heading">Certificaciones</h4>
-                        <p class="text-muted text-justify">Contamos con certificaciones en diferentes plataformas y productos para brindar la atención y el servicio de excelencia que requieren los clientes.</p>
+                        <p class="text-muted text-primary">Contamos con certificaciones en diferentes plataformas y productos para brindar la atención y el servicio de excelencia que requieren los clientes.</p>
                     </div>
                     <div class="col-md-3">
                         <span class="fa-stack fa-4x">
@@ -175,7 +176,7 @@
                             <i class="fas fa-laptop fa-stack-1x fa-inverse"></i>
                         </span>
                         <h4 class="service-heading">Monitoreo</h4>
-                        <p class="text-muted text-justify">Contamos con un software de seguimiento en tiempo real el cual nos mantiene alertas en cada desvió de rutas, alertas de parada de unidades, contingencias, comunicación directa con la PF, priorizando la protección de la carga.</p>
+                        <p class="text-muted text-primary">Contamos con un software de seguimiento en tiempo real el cual nos mantiene alertas en cada desvió de rutas, alertas de parada de unidades, contingencias, comunicación directa con la PF, priorizando la protección de la carga.</p>
                     </div>
                     <div class="col-md-3">
                         <span class="fa-stack fa-4x">
@@ -183,7 +184,7 @@
                             <i class="fas fa-lock fa-stack-1x fa-inverse"></i>
                         </span>
                         <h4 class="service-heading">Bussines Analytics</h4>
-                        <p class="text-muted text-justify">Diseñamos servicios innovadores que se reflejan en auténticas ventajas competitivas para nuestros clientes, buscando siempre el mayor Retorno en sus Inversiones.</p>
+                        <p class="text-muted text-primary">Diseñamos servicios innovadores que se reflejan en auténticas ventajas competitivas para nuestros clientes, buscando siempre el mayor Retorno en sus Inversiones.</p>
                     </div>
                     <!--                    <div>
                                             <ul>
@@ -307,8 +308,34 @@
                     </div>
                     <div class="col-xl-4 col-lg-5">
                         <div class="featured-text text-center text-lg-left">
-                            <h4>Mision</h4>
-                            <p class="text-50 mb-0 text-muted text-justify">Generar valor a nuestros clientes a través de soluciones integrales adaptadas a sus necesidades logrando el mayor retorno en sus inversiones.</p>
+                            <h4>Valores</h4>
+                            <hr class="d-none d-lg-block mb-0 mr-0">
+                            <dl>
+                                <dt>Innovación.</dt>
+                                <dd>Creamos continuamente mejores formas de agregar valor</dd>
+                            </dl>
+                            <p class="text-muted"> Iniciativa - Juicio - Curiosidad</p>
+                            <dl>
+                                <dt>Pasión.</dt>
+                                <dd>Trabajamos en conjunto para crear una sinergia capaz de transmitir el resultado</dd>
+                            </dl>
+                            <p class="text-muted">Coraje - Urgencia - Diversión</p>
+                            <dl>
+                                <dt>Excelencia.</dt>
+                                <dd>Nuestras acciones trascienden hacia el éxito de nuestros clientes</dd>
+                            </dl>
+                            <p class="text-muted">Compromiso- Calidad - Actitud</p>
+                            <dl>
+                                <dt>Integridad.</dt>
+                                <dd>Construimos relaciones con base en la honestidad y el respeto</dd>
+                            </dl>
+                            <p class="text-muted">Equidad - Ética</p>
+                            <dl>
+                                <dt>Colaboración.</dt>
+                                <dd>Potenciamos el talento de nuestro equipo para generar resultados extraordinarios</dd>
+                            </dl>
+                            <p class="ext-muted">Entendimiento - Sinergia.</p>
+<!--                                    <p class="mb-0 text-white-50">Another example of a project with its respective description. These sections work well responsively as well, try this theme on a small screen!</p>-->
                         </div>
                     </div>
                 </div>
@@ -322,15 +349,15 @@
                         <div class="bg-black text-center h-100 project">
                             <div class="d-flex h-100">
                                 <div class="project-text w-100 my-auto text-center text-lg-left">
-                                    <h4>Vision</h4>
-                                    <p class="mb-0 text-50 text-muted text-justify">Enfocamos nuestros esfuerzos para ser la compañía líder en ofrecer servicios integrales en TI y Logística a nivel nacional.</p>
-                                    <hr class="d-none d-lg-block mb-0 ml-0">
+                                    <h4>Mision</h4>
+                                    <hr class="d-none d-lg-block mb-0 mr-0">
+                                    <p class="text-50 mb-0 text-muted text-justify">Generar valor a nuestros clientes a través de soluciones integrales adaptadas a sus necesidades logrando el mayor retorno en sus inversiones.</p>
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
-
+                <br />
                 <!-- Project Two Row -->
                 <div class="row justify-content-center no-gutters">
                     <div class="col-lg-6">
@@ -340,14 +367,9 @@
                         <div class="bg-black text-center h-100 project">
                             <div class="d-flex h-100">
                                 <div class="project-text w-100 my-auto text-center text-lg-right">
-                                    <h4>Valores</h4>
-                                    <p class="mb-0 text-50 text-muted text-justify">Innovación. - Creamos continuamente mejores formas de agregar valor, Iniciativa - Juicio - Curiosidad</p>
-                                    <p class="mb-0 text-50 text-muted text-justify">Pasión: Trabajamos en conjunto para crear una sinergia capaz de transmitir el resultado, Coraje - Urgencia - Diversión</p>
-                                    <p class="mb-0 text-50 text-muted text-justify">Excelencia: Nuestras acciones trascienden hacia el éxito de nuestros clientes, Compromiso- Calidad - Actitud</p>
-                                    <p class="mb-0 text-50 text-muted text-justify">Integridad: Construimos relaciones con base en la honestidad y el respeto, Equidad - Ética</p>
-                                    <p class="mb-0 text-50 text-muted text-justify">Colaboración: Potenciamos el talento de nuestro equipo para generar resultados extraordinarios, Entendimiento - Sinergia.</p>
-<!--                                    <p class="mb-0 text-white-50">Another example of a project with its respective description. These sections work well responsively as well, try this theme on a small screen!</p>-->
-                                    <hr class="d-none d-lg-block mb-0 mr-0">
+                                    <h4>Vision</h4>
+                                    <hr class="d-none d-lg-block mb-0 ml-0">
+                                    <p class="mb-0 text-50 text-muted text-justify">Enfocamos nuestros esfuerzos para ser la compañía líder en ofrecer servicios integrales en TI y Logística a nivel nacional.</p>
                                 </div>
                             </div>
                         </div>
@@ -509,85 +531,7 @@
                         </div>
                     </div>
                 </div>
-                <!--                <div class="row">
-                                    <div class="col-sm-4">
-                                        <div class="team-member">
-                                            <img class="mx-auto rounded-circle" src="img/team/1.jpg" alt="">
-                                            <h4>Kay Garland</h4>
-                                            <p class="text-muted">Lead Designer</p>
-                                            <ul class="list-inline social-buttons">
-                                                <li class="list-inline-item">
-                                                    <a href="#">
-                                                        <i class="fab fa-twitter"></i>
-                                                    </a>
-                                                </li>
-                                                <li class="list-inline-item">
-                                                    <a href="#">
-                                                        <i class="fab fa-facebook-f"></i>
-                                                    </a>
-                                                </li>
-                                                <li class="list-inline-item">
-                                                    <a href="#">
-                                                        <i class="fab fa-linkedin-in"></i>
-                                                    </a>
-                                                </li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                    <div class="col-sm-4">
-                                        <div class="team-member">
-                                            <img class="mx-auto rounded-circle" src="img/team/2.jpg" alt="">
-                                            <h4>Larry Parker</h4>
-                                            <p class="text-muted">Lead Marketer</p>
-                                            <ul class="list-inline social-buttons">
-                                                <li class="list-inline-item">
-                                                    <a href="#">
-                                                        <i class="fab fa-twitter"></i>
-                                                    </a>
-                                                </li>
-                                                <li class="list-inline-item">
-                                                    <a href="#">
-                                                        <i class="fab fa-facebook-f"></i>
-                                                    </a>
-                                                </li>
-                                                <li class="list-inline-item">
-                                                    <a href="#">
-                                                        <i class="fab fa-linkedin-in"></i>
-                                                    </a>
-                                                </li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                    <div class="col-sm-4">
-                                        <div class="team-member">
-                                            <img class="mx-auto rounded-circle" src="img/team/3.jpg" alt="">
-                                            <h4>Diana Pertersen</h4>
-                                            <p class="text-muted">Lead Developer</p>
-                                            <ul class="list-inline social-buttons">
-                                                <li class="list-inline-item">
-                                                    <a href="#">
-                                                        <i class="fab fa-twitter"></i>
-                                                    </a>
-                                                </li>
-                                                <li class="list-inline-item">
-                                                    <a href="#">
-                                                        <i class="fab fa-facebook-f"></i>
-                                                    </a>
-                                                </li>
-                                                <li class="list-inline-item">
-                                                    <a href="#">
-                                                        <i class="fab fa-linkedin-in"></i>
-                                                    </a>
-                                                </li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                </div>-->
-                <!--                <div class="row">
-                                    <div class="col-lg-8 mx-auto text-center">
-                                        <p class="large text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde.</p>
-                                    </div>
-                                </div>-->
+
             </div>
         </section>
 
@@ -693,42 +637,74 @@
                             <div class="rl"></div>
                         </div>
                     </div>
-                    <div class="container">
+                    <div class="container new">
                         <div class="row">
                             <div class="col-lg-8 mx-auto">
                                 <div class="modal-body">
-                                    <!-- Project Details Go Here -->
+
                                     <h2 class="text-uppercase">Soluciones IT</h2>
                                     <p class="item-intro text-muted"></p>
-                                    <img class="img-fluid d-block mx-auto" src="img/portfolio/it.jpg.jpg" alt="">
-                                    <h3>Consultoría</h3>
-                                    <ul class="list-inline">
-                                        <li>Windows Server</li>
-                                        <li>Sharepoint</li>
-                                        <li>SQL Server</li>
-                                        <li>SAP</li>
-                                        <li>Cloud Services</li>
-                                    </ul>
-                                    <h3>Soporte Técnico</h3>
-                                    <ul class="list-inline">
-                                        <li>Mantenimiento Preventivo</li>
-                                        <li>Mantenimiento Correctivo</li>
-                                        <li>Mesa de Ayuda</li>
-                                        <li>Soporte Técnivo</li>
-                                    </ul>
-                                    <h3>Proyectos</h3>
-                                    <ul class="list-inline">
-                                        <li>Migración de Información</li>
-                                        <li>Clonación de Imágenes</li>
-                                        <li>Reemplazo Tecnológico</li>
-                                        <li>Mudanzas Tecnológias</li>
-                                        <li>Instalación de Software</li>
-                                    </ul>
-                                    <!--                                    <ul class="list-inline">
-                                                                            <li>Date: January 2017</li>
-                                                                            <li>Client: Threads</li>
-                                                                            <li>Category: Illustration</li>
-                                                                        </ul>-->
+                                    <!--<img class="img-fluid d-block mx-auto" src="img/portfolio/it.jpg.jpg" alt="">-->
+                                    <div class="row">
+                                        <div class="col-lg-4 col-md-6 mb-5 mb-lg-0">
+                                            <span class="service-icon rounded-circle mx-auto mb-3">
+                                                <i class="icon-bubbles"></i>
+                                            </span>
+                                            <h4>
+                                                <strong>Consultoría</strong>
+                                            </h4>
+                                            <ul class="list-inline">
+                                                <li>Windows Server</li>
+                                                <li>Sharepoint</li>
+                                                <li>SQL Server</li>
+                                                <li>SAP</li>
+                                                <li>Cloud Services</li>
+                                            </ul>
+                                                    <!--<p class="text-faded mb-0">Looks great on any screen size!</p>-->
+                                        </div>
+                                        <div class="col-lg-4 col-md-6 mb-5 mb-lg-0">
+                                            <span class="service-icon rounded-circle mx-auto mb-3">
+                                                <i class="icon-screen-desktop"></i>
+                                            </span>
+                                            <h4>
+                                                <strong>Soporte Técnico</strong>
+                                            </h4>
+                                            <ul class="list-inline">
+                                                <li>Mantenimiento Preventivo</li>
+                                                <li>Mantenimiento Correctivo</li>
+                                                <li>Mesa de Ayuda</li>
+                                                <li>Soporte Técnivo</li>
+                                            </ul>
+                                                    <!--<p class="text-faded mb-0">Freshly redesigned for Bootstrap 4.</p>-->
+                                        </div>
+                                        <div class="col-lg-4 col-md-6 mb-5 mb-md-0">
+                                            <span class="service-icon rounded-circle mx-auto mb-3">
+                                                <i class="icon-book-open"></i>
+                                            </span>
+                                            <h4>
+                                                <strong>Proyectos</strong>
+                                            </h4>
+                                            <ul class="list-inline">
+                                                <li>Migración de Información</li>
+                                                <li>Clonación de Imágenes</li>
+                                                <li>Reemplazo Tecnológico</li>
+                                                <li>Mudanzas Tecnológias</li>
+                                                <li>Instalación de Software</li>
+                                            </ul>
+        <!--                                            <p class="text-faded mb-0">Millions of users
+                                                        <i class="fas fa-heart"></i>
+                                                        Start Bootstrap!</p>-->
+                                        </div>
+                                        <!--                                        <div class="col-lg-3 col-md-6">
+                                                                                    <span class="service-icon rounded-circle mx-auto mb-3">
+                                                                                        <i class="icon-mustache"></i>
+                                                                                    </span>
+                                                                                    <h4>
+                                                                                        <strong>Question</strong>
+                                                                                    </h4>
+                                                                                    <p class="text-faded mb-0">I mustache you a question...</p>
+                                                                                </div>-->
+                                    </div>
                                     <button class="btn btn-primary" data-dismiss="modal" type="button">
                                         <i class="fas fa-times"></i>
                                         Cerrar</button>
@@ -749,43 +725,77 @@
                             <div class="rl"></div>
                         </div>
                     </div>
-                    <div class="container">
+                    <div class="container new">
                         <div class="row">
                             <div class="col-lg-8 mx-auto">
                                 <div class="modal-body">
-                                    <!-- Project Details Go Here -->
-                                    <h2 class="text-uppercase">Logistica</h2>
-                                    <!--<p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>-->
-                                    <img class="img-fluid d-block mx-auto" src="img/portfolio/02-full.jpg" alt="">
-                                    <p>Almacen</p>
-                                    <ul class="list-inline">
-                                        <li>Administración de Inventario</li>
-                                        <li>Picking</li>
-                                        <li>Packing</li>
-                                        <li>Maquila</li>
-                                        <li>Cross Dock</li>
-                                    </ul>
-                                    <p>Distribución</p>
-                                    <ul class="list-inline">
-                                        <li>Dedicados</li>
-                                        <li>Consolidados</li>
-                                        <li>LTL</li>
-                                    </ul>
-                                    <p>Transportación</p>
-                                    <ul class="list-inline">
-                                        <li>Hand Carriers</li>
-                                        <li>Renta de Unidades</li>
-                                        <li>Mensajería</li>
-                                    </ul>
-                                    <p>Agente Aduanal</p>
-                                    <ul class="list-inline">
-                                        <li>Clasificación Arancelaria</li>
-                                        <li>Almacén Fiscalizado</li>
-                                        <li>Retiro de Mercancia de Aduana</li>
-                                        <li>Gestión de Importacióna</li>
-                                        <li>Etiquetado UVA</li>
-                                        <li>Transporte Marítimo</li>
-                                    </ul>
+                                    <h2 class="text-uppercase">Soluciones Logistica</h2>
+                                    <p class="item-intro text-muted"></p>
+                                    <!--<img class="img-fluid d-block mx-auto" src="img/portfolio/it.jpg.jpg" alt="">-->
+                                    <div class="row">
+                                        <div class="col-lg-3 col-md-6 mb-5 mb-lg-0">
+                                            <span class="service-icon rounded-circle mx-auto mb-3">
+                                                <i class="icon-social-dropbox"></i>
+                                            </span>
+                                            <h4>
+                                                <strong>Almacen</strong>
+                                            </h4>
+                                            <ul class="list-inline">
+                                                <li>Administración de Inventario</li>
+                                                <li>Picking</li>
+                                                <li>Packing</li>
+                                                <li>Maquila</li>
+                                                <li>Cross Dock</li>
+                                            </ul>
+                                                    <!--<p class="text-faded mb-0">Looks great on any screen size!</p>-->
+                                        </div>
+                                        <div class="col-lg-3 col-md-6 mb-5 mb-lg-0">
+                                            <span class="service-icon rounded-circle mx-auto mb-3">
+                                                <i class="icon-globe-alt"></i>
+                                            </span>
+                                            <h4>
+                                                <strong>Distribución</strong>
+                                            </h4>
+                                            <ul class="list-inline">
+                                                <li>Dedicados</li>
+                                                <li>Consolidados</li>
+                                                <li>LTL</li>
+                                            </ul>
+                                                    <!--<p class="text-faded mb-0">Freshly redesigned for Bootstrap 4.</p>-->
+                                        </div>
+                                        <div class="col-lg-3 col-md-6 mb-5 mb-md-0">
+                                            <span class="service-icon rounded-circle mx-auto mb-3">
+                                                <i class="icon-map"></i>
+                                            </span>
+                                            <h4>
+                                                <strong>Transportación</strong>
+                                            </h4>
+                                            <ul class="list-inline">
+                                                <li>Hand Carriers</li>
+                                                <li>Renta de Unidades</li>
+                                                <li>Mensajería</li>
+                                            </ul>
+        <!--                                            <p class="text-faded mb-0">Millions of users
+                                                        <i class="fas fa-heart"></i>
+                                                        Start Bootstrap!</p>-->
+                                        </div>
+                                        <div class="col-lg-3 col-md-6">
+                                            <span class="service-icon rounded-circle mx-auto mb-3">
+                                                <i class="icon-user-following"></i>
+                                            </span>
+                                            <h4>
+                                                <strong>Agente Aduanal</strong>
+                                            </h4>
+                                            <ul class="list-inline">
+                                                <li>Clasificación Arancelaria</li>
+                                                <li>Almacén Fiscalizado</li>
+                                                <li>Retiro de Mercancia de Aduana</li>
+                                                <li>Gestión de Importacióna</li>
+                                                <li>Etiquetado UVA</li>
+                                                <li>Transporte Marítimo</li>
+                                            </ul>
+                                        </div>
+                                    </div>
                                     <button class="btn btn-primary" data-dismiss="modal" type="button">
                                         <i class="fas fa-times"></i>
                                         Cerrar</button>
