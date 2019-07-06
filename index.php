@@ -385,7 +385,7 @@
                     <div class="col-lg-12 text-center">
                         <h2 class="section-heading text-uppercase">Acerca de Nosotros</h2>
                         <p class="text-muted">ITL Servicios Integrales, somos una empresa con dos divisiones de negocio:</p>
-                        <p class="text-muted">Tecnologías de la Información. -  Dedicada a dar soluciones en diferentes productos y servicios como lo sin Consultoría, Venta de Licenciamiento, Renta de Hardware, Soporte Técnico, Mesa de Ayuda entre otras.</p>
+                        <p class="text-muted">Tecnologías de la Información. -  Dedicada a dar soluciones en diferentes productos y servicios como lo son Consultoría, Venta de Licenciamiento, Renta de Hardware, Soporte Técnico, Mesa de Ayuda entre otras.</p>
                         <p class="text-muted">Logística- Dedicados al almacenaje, logística, transportación, distribución y operación aduanera de diversos productos a nivel nacional. Contamos con 14 años de experiencia impulsando a nuestros clientes a la calidad y éxito en cada uno de sus proyectos.</p>
                         <h3 class="section-subheading text-muted"></h3>
                         <!--<h2>Cronograma</h2>-->
