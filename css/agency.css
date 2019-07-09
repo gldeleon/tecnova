@@ -754,3 +754,7 @@ img {
 .new {
     max-width: 1325px;
 }
+
+.container {
+    max-width: 1293px !important;
+}

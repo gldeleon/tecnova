@@ -160,7 +160,7 @@
                             <i class="fas fa-user fa-stack-1x fa-inverse"></i>
                         </span>
                         <h4 class="service-heading">Mesa de ayuda TI</h4>
-                        <p class="text-muted text-primary">Contamos con una mesa de servicio 7x24 para la atención de todos los tickets de acuerdo a la prioridad de atención, nuestros recursos están altamente capacitados en la solución a issues de 1er, 2º y 3er grado.</p>
+                        <p class="text-primary text-justify">Contamos con una mesa de servicio 7x24 para la atención de todos los tickets de acuerdo a la prioridad de atención, nuestros recursos están altamente capacitados en la solución a issues de 1er, 2º y 3er grado.</p>
                     </div>
                     <div class="col-md-3">
                         <span class="fa-stack fa-4x">
@@ -168,7 +168,7 @@
                             <i class="fas fa-check fa-stack-1x fa-inverse"></i>
                         </span>
                         <h4 class="service-heading">Certificaciones</h4>
-                        <p class="text-muted text-primary">Contamos con certificaciones en diferentes plataformas y productos para brindar la atención y el servicio de excelencia que requieren los clientes.</p>
+                        <p class="text-primary text-justify">Contamos con certificaciones en diferentes plataformas y productos para brindar la atención y el servicio de excelencia que requieren los clientes.</p>
                     </div>
                     <div class="col-md-3">
                         <span class="fa-stack fa-4x">
@@ -176,7 +176,7 @@
                             <i class="fas fa-laptop fa-stack-1x fa-inverse"></i>
                         </span>
                         <h4 class="service-heading">Monitoreo</h4>
-                        <p class="text-muted text-primary">Contamos con un software de seguimiento en tiempo real el cual nos mantiene alertas en cada desvió de rutas, alertas de parada de unidades, contingencias, comunicación directa con la PF, priorizando la protección de la carga.</p>
+                        <p class="text-primary text-justify">Contamos con un software de seguimiento en tiempo real el cual nos mantiene alertas en cada desvió de rutas, alertas de parada de unidades, contingencias, comunicación directa con la PF, priorizando la protección de la carga.</p>
                     </div>
                     <div class="col-md-3">
                         <span class="fa-stack fa-4x">
@@ -184,7 +184,7 @@
                             <i class="fas fa-lock fa-stack-1x fa-inverse"></i>
                         </span>
                         <h4 class="service-heading">Bussines Analytics</h4>
-                        <p class="text-muted text-primary">Diseñamos servicios innovadores que se reflejan en auténticas ventajas competitivas para nuestros clientes, buscando siempre el mayor Retorno en sus Inversiones.</p>
+                        <p class="text-primary text-justify">Diseñamos servicios innovadores que se reflejan en auténticas ventajas competitivas para nuestros clientes, buscando siempre el mayor Retorno en sus Inversiones.</p>
                     </div>
                     <!--                    <div>
                                             <ul>
@@ -311,28 +311,28 @@
                             <h4>Valores</h4>
                             <hr class="d-none d-lg-block mb-0 mr-0">
                             <dl>
-                                <dt>Innovación.</dt>
-                                <dd>Creamos continuamente mejores formas de agregar valor</dd>
+                                <dt>Innovación</dt>
+                                <dd>Creamos continuamente mejores formas de agregar valor.</dd>
                             </dl>
                             <p class="text-muted"> Iniciativa - Juicio - Curiosidad</p>
                             <dl>
-                                <dt>Pasión.</dt>
-                                <dd>Trabajamos en conjunto para crear una sinergia capaz de transmitir el resultado</dd>
+                                <dt>Pasión</dt>
+                                <dd>Trabajamos en conjunto para crear una sinergia capaz de transmitir el resultado.</dd>
                             </dl>
                             <p class="text-muted">Coraje - Urgencia - Diversión</p>
                             <dl>
-                                <dt>Excelencia.</dt>
-                                <dd>Nuestras acciones trascienden hacia el éxito de nuestros clientes</dd>
+                                <dt>Excelencia</dt>
+                                <dd>Nuestras acciones trascienden hacia el éxito de nuestros clientes.</dd>
                             </dl>
                             <p class="text-muted">Compromiso- Calidad - Actitud</p>
                             <dl>
-                                <dt>Integridad.</dt>
-                                <dd>Construimos relaciones con base en la honestidad y el respeto</dd>
+                                <dt>Integridad</dt>
+                                <dd>Construimos relaciones con base en la honestidad y el respeto.</dd>
                             </dl>
                             <p class="text-muted">Equidad - Ética</p>
                             <dl>
-                                <dt>Colaboración.</dt>
-                                <dd>Potenciamos el talento de nuestro equipo para generar resultados extraordinarios</dd>
+                                <dt>Colaboración</dt>
+                                <dd>Potenciamos el talento de nuestro equipo para generar resultados extraordinarios.</dd>
                             </dl>
                             <p class="ext-muted">Entendimiento - Sinergia.</p>
 <!--                                    <p class="mb-0 text-white-50">Another example of a project with its respective description. These sections work well responsively as well, try this theme on a small screen!</p>-->
@@ -385,8 +385,8 @@
                     <div class="col-lg-12 text-center">
                         <h2 class="section-heading text-uppercase">Acerca de Nosotros</h2>
                         <p class="text-muted">ITL Servicios Integrales, somos una empresa con dos divisiones de negocio:</p>
-                        <p class="text-muted">Tecnologías de la Información. -  Dedicada a dar soluciones en diferentes productos y servicios como lo son Consultoría, Venta de Licenciamiento, Renta de Hardware, Soporte Técnico, Mesa de Ayuda entre otras.</p>
-                        <p class="text-muted">Logística- Dedicados al almacenaje, logística, transportación, distribución y operación aduanera de diversos productos a nivel nacional. Contamos con 14 años de experiencia impulsando a nuestros clientes a la calidad y éxito en cada uno de sus proyectos.</p>
+                        <p class="text-muted text-justify">Tecnologías de la Información. -  Dedicada a dar soluciones en diferentes productos y servicios como lo son Consultoría, Venta de Licenciamiento, Renta de Hardware, Soporte Técnico, Mesa de Ayuda entre otras.</p>
+                        <p class="text-muted text-justify">Logística- Dedicados al almacenaje, logística, transportación, distribución y operación aduanera de diversos productos a nivel nacional. Contamos con 14 años de experiencia impulsando a nuestros clientes a la calidad y éxito en cada uno de sus proyectos.</p>
                         <h3 class="section-subheading text-muted"></h3>
                         <!--<h2>Cronograma</h2>-->
                     </div>
