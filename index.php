@@ -98,7 +98,7 @@
                         </div>
                     </div>
                     <div class="carousel-item">
-                        <img class="d-block w-100" src="img/mesa.jpg" width="800px" height="650px" alt="...">
+                        <img class="d-block w-100" src="img/Migracion-y-clonacion.jpg" width="800px" height="650px" alt="...">
                         <div class="carousel-caption d-none d-md-block">
                             <h1>80,000 equipos migrados y clonados</h1>
                         </div>
@@ -304,7 +304,7 @@
                 <!-- Featured Project Row -->
                 <div class="row align-items-center no-gutters mb-4 mb-lg-5">
                     <div class="col-xl-8 col-lg-7">
-                        <img class="img-fluid mb-3 mb-lg-0" src="img/7679.jpg" alt="">
+                        <img class="img-fluid mb-3 mb-lg-0" src="img/Valores.jpg" alt="">
                     </div>
                     <div class="col-xl-4 col-lg-5">
                         <div class="featured-text text-center text-lg-left">
@@ -343,7 +343,7 @@
                 <!-- Project One Row -->
                 <div class="row justify-content-center no-gutters mb-5 mb-lg-0">
                     <div class="col-lg-6">
-                        <img class="img-fluid" src="img/42291.jpg" alt="">
+                        <img class="img-fluid" src="img/Mision.jpg" alt="">
                     </div>
                     <div class="col-lg-6">
                         <div class="bg-black text-center h-100 project">
@@ -361,7 +361,7 @@
                 <!-- Project Two Row -->
                 <div class="row justify-content-center no-gutters">
                     <div class="col-lg-6">
-                        <img class="img-fluid" src="img/42291.jpg" alt="">
+                        <img class="img-fluid" src="img/Vision.jpg" alt="">
                     </div>
                     <div class="col-lg-6 order-lg-first">
                         <div class="bg-black text-center h-100 project">
@@ -441,7 +441,7 @@
                             </li>
                             <li class="timeline-inverted">
                                 <div class="timeline-image">
-                                    <img class="rounded-circle img-fluid" src="img/about/4.jpg" alt="">
+                                    <img class="rounded-circle img-fluid" src="img/Soluciones-de-divicion-.jpg" alt="">
                                 </div>
                                 <div class="timeline-panel">
                                     <div class="timeline-heading">
@@ -457,7 +457,7 @@
                             </li>
                             <li>
                                 <div class="timeline-image">
-                                    <img class="rounded-circle img-fluid" src="img/about/1.jpg" alt="">
+                                    <img class="rounded-circle img-fluid" src="img/apertura-de-cedis.jpg" alt="">
                                 </div>
                                 <div class="timeline-panel">
                                     <div class="timeline-heading">
