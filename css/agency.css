@@ -776,3 +776,24 @@ img {
     outline: 0;
     background-color: #1d809f !important;
 }
+
+.carousel-inner {
+
+    position: relative;
+    width: 100%;
+    overflow: hidden;
+    height: 650px;
+}
+.carousel-item {
+    position: relative;
+    display: none;
+    float: left;
+    width: 100%;
+    margin-right: -100%;
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
+    transition: -webkit-transform .6s ease-in-out;
+    transition: transform .6s ease-in-out;
+    transition: transform .6s ease-in-out,-webkit-transform .6s ease-in-out;
+    height: 650px;
+}
