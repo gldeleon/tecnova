@@ -178,15 +178,16 @@ img::-moz-selection {
     }
 }
 
-header.masthead {
+/*header.masthead {
     text-align: center;
     color: white;
-    background-image: url("../img/1615.jpg");
+    /*background-image: url("../img/1615.jpg");*
+    background-color: #FFF;
     background-repeat: no-repeat;
     background-attachment: scroll;
     background-position: center center;
     background-size: cover;
-}
+}*/
 
 header.masthead .intro-text {
     padding-top: 150px;
@@ -710,10 +711,7 @@ img {
 }
 
 .img-fluid {
-    /*max-width: 97%;*/
     max-width: 100%;
-    /*    height: auto;*/
-    height: 100%;
 }
 
 .text-50 {
